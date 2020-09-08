@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cfqzls.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-09-08T01:52:01.404Z</updated>
+    <title>cfq在路上</title>
+    <updated>2020-09-08T02:38:29.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cfqzls.github.io"/>
     <link rel="self" href="https://cfqzls.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://cfqzls.github.io/images/avatar.png</logo>
     <icon>https://cfqzls.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, cfq在路上</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://cfqzls.github.io/post/test/</id>
